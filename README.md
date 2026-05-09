@@ -259,7 +259,7 @@ To reproduce locally:
 
 As required by the course, we disclose our use of AI assistance:
 
-- **Claude (Anthropic) and GitHub Copilot** were used for code completion, debugging HuggingFace/PyTorch API calls, and writing docstrings.
+- **Claude (Anthropic) and GitHub Copilot** were used for debugging HuggingFace/PyTorch API calls, and writing docstrings.
 - All model design choices, architecture decisions, and hyperparameter selections were made by us.
 
 ---
